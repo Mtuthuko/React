@@ -1,5 +1,5 @@
 FROM node:alpine
-WORKDIR '/app'
+WORKDIR './App'
 
 COPY package.json .
 RUN npm install
