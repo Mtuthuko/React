@@ -34,5 +34,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "[![Build Status](https://travis-ci.org/Mtuthuko/React.svg?branch=master)](https://travis-ci.org/Mtuthuko/React)",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mtuthuko/React.git"
+  },
+  "author": "Mtuthuko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mtuthuko/React/issues"
+  },
+  "homepage": "https://github.com/Mtuthuko/React#readme"
 }
