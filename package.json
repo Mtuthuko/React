@@ -10,7 +10,7 @@
     "laravel-mix": "^5.0.1",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
-    "react-scripts": "3.4.0",
+    "react-scripts": "5.0.1",
     "stretch": "0.0.0",
     "webpack": "^4.41.6"
   },
